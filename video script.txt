@@ -1,0 +1,92 @@
+//Intro
+
+Hello there. I'm a solo «Hunt: Showdown» player with seven hundred plus, hours of gameplay. 
+
+In this video i'll present a list of tips i've shared with few of my friends that actually agree to play with me sometimes. Enjoy.
+
+//Tips.
+//#1
+Tip number one is simple: Turn off the «door and window interaction highlight» in the Hunt settings. 
+
+The game has a useful feature that highlights usable and interactable items in the world with a white outline. However, that outline is pretty chunky and can block a lot of visibility through the cracks in the doors, sliding gates and window shutters — besides, i reckon you know what a door looks like anyways. 
+
+Simply navigate to the ***gameplay setting in the menu and toggle the «exclude windows and doors» option.***
+This will greatly help you to see through them more clearly and hopefully get more wallbangs. 
+
+//#2
+Number two. Enable auto-interact in the settings. 
+
+This one might be up to preference, but i find it much easier to simply hold my interact button while approaching an ammo crate or a medpack, and let the game use the item on it's own. 
+
+This tip also helps greatly with the perk Dauntless — just hold the button and look in the direction of the incoming grenade, and you might disable it in the air if you're lucky. 
+
+//#3
+Number three. Watch your step. 
+
+This a simple tip again, but always check your ground as you're running around, especially when jumping in through windows, doorways, hopping fences or around barrels. 
+
+Somebody could have been there, and they might have set up traps, which sometimes are extremely lethal. 
+Look before you commit. 
+
+//#4
+Number four. Always left-peek. 
+
+This tip is pretty meta and some people might dislike abusing it. 
+However, in the current state of the game, the person who peeks with his left shoulder leaving the cover first, has significantly higher chance to shoot first against an opponent who does the opposite — since the ingame camera and consequently, the gun, are located in the player model's left shoulder. 
+
+//#5
+Number five. This one is very common across many FPS'. 
+As a continuation on the peeking theme — try to never re-peek the same angle. 
+
+I've witnessed hundreds of hunters die this way — your enemies had seen you after your first peek, and will train their rifles exactly at the head height of your peeking spot, leading to quick demise.
+
+//#6
+Number six.
+What should you do instead of re-peeking? Always keep moving.
+
+ Try a different window or a corner, look for a convenient crack in the wall, or simply leave the compound entirely and relocate — your goal is to surprise and catch your opponents off guard, leaving them exposed and unprepared, and shoot first.
+
+When you're relocating or peeking from cover, try to move unpredictably — wiggling left or right, jumping or even meleeing or holding and releasing a charged heavy attack as you run, as every unexpected thing you do will make you a harder target to hit. Also, try to avoid crouching unless really nececcary, as it makes you an extremely easy target. Remember, moving fast and unpredictably is key.
+
+//#7
+Number seven.
+Know your effective ranges. 
+
+It's extremely important to come into the Bayou with the correct tools and weapons, and use them accordingly. 
+
+I'm a big fan of shotguns as they put a lot emphasis on smart movement and less on mechanical aim — however you are left almost helpless at distances larger than 10-15 meters. A good precise backup weapon with decent projectile speed and comfortable iron sights would pair greatly with that. 
+
+Likewise, if you're bringing a long range rifle, a LeMat mini-shotgun or a hand crossbow will give you the one-shot potential at the hand-to-hand range. And dont forget, if everything else fails — a melee tool rush is fun an works surprisingly often. 
+
+Also keep in mind that hipfire is your go-to way of firing shotguns and can sometimes be pretty viable with guns at medium distances (10-30 meters). A great way to practice that is playing some QuickPlay.
+
+//#8
+Number eight. Work on your map knowledge. 
+
+This is a pretty large topic that i will separate into several tips. 
+Maps are pretty static, with only a few little things changing between matches such as some locked doors and windows. 
+Knowing the layout of every compound, ways to enter and leave them or change elevation, and what material the floor is made from will save your life and grant you kills many times. If you know your way around and listen for the enemy movements, you can almost precisely tell their position and maybe even wallbang them. 
+
+The amazing sound system of Hunt: Showdown gives you so much information, you just have to understand how to use it. Playing QuickPlay, again, is a great, fast and profitable way to familiarize yourself with Bayou.
+
+//#9
+Number nine. Consider where your enemies can come from. 
+
+The game has fixed spawns locations, and the layout of boss clues is the same for every player. With that you can pretty confidently predict where your enemies can come from, or even where they could be exactly. 
+
+Personally, i always check my neighboring spawn in the first compound and try to set up an ambush if there actually are people around. 
+
+//#10
+Number ten. Go for the unusual rotate to surprise attack your opponents. 
+
+Don't be predictable and rush into the doorways that the enemy team is holding with shotguns.
+The compounds and the map itself are beautifully designed with every location having multiple entrances, different sets of ramps, drops, ladders and stairs. Don't be afraid to vault and jump onto different objects to get highground on your opponents, or jump into a multilevel drop between floors of a compound to surprise them. 
+
+Look for and experiment on different ways to enter or leave the boss lair, and you'll see your KDA improve.
+
+//#Bonus tip
+And the bonus tip is — always stay positive and have fun. 
+
+Hunt: Showdown is an incredible complex game with hundreds of ways you can play, and you will improve with every match, as you gather more knowledge. 
+
+If you're having a hard time, try playing with a friend or a random, try out a different loadout, or give the Quickplay a chance. At the end of the day, this a game designed to be fun and exciting. Don't forget that and have a good one.
