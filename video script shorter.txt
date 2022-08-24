@@ -1,0 +1,83 @@
+//Intro
+
+Hello there. I'm a solo «Hunt: Showdown» player with over seven hundred hours of gameplay. 
+ 
+In this video i'll present a list of tips i've shared with my friends, that play with me sometimes. Enjoy.
+
+//Tips.
+//#1
+Tip number one is simple: Set the «Highlight Interactable Objects» to «exclude doors and windows» in the Hunt settings. 
+
+By default, the game outlines all doors and windows with flashing white light, which can be distracting and block vision. 
+
+You can also enable «auto-interact» in the Game settings.
+I find it easier to hold my interact button while approaching an ammo crate or a medpack, and let the game do the rest.
+
+This tip also helps with the perk Dauntless — just hold the button and look at the incoming grenade, and you might disable it in the air, if you're lucky. 
+
+
+//#2
+Number two. Watch your step. 
+
+Try to always check your ground as you're running around, especially before jumping in through windows, doorways, hopping fences or around barrels. 
+
+When trapped, those are extremely lethal. You can also try trapping those chokepoints yourself! 
+
+//#3
+Number three. Always left-peek. 
+
+This tip is pretty meta and some people might dislike abusing it. 
+Both the ingame camera and the gun are located in the player model's left shoulder. 
+So, the person who leaves cover with his left shoulder first, has a higher chance to shoot earlier at an opponent who's doing the opposite. 
+
+//#4
+Number four. Try to never re-peek the same angle, and keep moving. 
+
+Re—peeking is deadly — your enemies had seen you after your first peek, and will keep watch of your peeking spot, leading to your quick demise.
+
+Instead, try a different angle, look for a convenient crack in the wall, or simply leave the compound and change position.
+Your goal is to surprise and catch your opponents off guard, and shoot first.
+
+When moving or peeking, try to move unpredictably — wiggling left or right, jumping, meleeing or holding and canceling a charged heavy attack as you run.
+Every unexpected thing you do will make you a harder target to hit. 
+Also, try to avoid crouching unless really nececcary, as it makes you an extremely easy target. Remember, moving fast and unpredictably is key.
+
+//#5
+Number five.
+Know your weapons' effective ranges. 
+
+I'm a big fan of shotguns as they put a lot emphasis on movement and less on mechanical aim — however, you are left almost helpless at distances larger than ten to fifteen meters. 
+A good backup weapon with decent projectile speed and comfortable iron sights would pair greatly with them. 
+
+If you're bringing a rifle, using a LeMat shotgun or a hand crossbow will give you the one-shot potential at close range. 
+And if everything else fails — a melee tool rush is fun and works surprisingly often. 
+
+Also keep in mind that hipfire is your go-to way of firing shotguns and can sometimes be viable with other guns at medium distances (up to ten to twenty meters). A great way to practice that is playing some QuickPlay.
+
+//#6
+Number six. Consider where your enemies can come from. 
+
+The game has fixed spawn locations, and the layout of boss clues is the same for every player on the server. With that you can predict where your enemies can come from, or even where they could be exactly. 
+
+I always check the closest spawn in my starting compound, and try to set up an ambush if i spot somebody.
+
+//#7
+Number seven. Work on your map knowledge. 
+
+All three maps of Hunt are pretty static, with only a few things changing between matches.
+Knowing the layout of every compound, ways to enter and leave them or change elevation, what material the floor is, will save your life many times. 
+
+If you know your way around and listen for the enemy movement, you can almost precisely tell their position and maybe even try to wallbang them. 
+The amazing sound system of «Hunt: Showdown» gives you so much information, you just have to use it. 
+
+Good map knowledge will also give you a lot of opportunities to catch your opponents with an unusual rotation. Like jumping onto different objects to get highground on your enemies, or falling into a multilevel drop between floors of a compound to surprise them. 
+
+Playing QuickPlay, again, is a great, fast and profitable way to familiarize yourself with Bayou.
+
+
+//#8
+And the last tip is — always stay positive and have fun. 
+
+«Hunt: Showdown» is an incredible complex game with hundreds of ways you can play, and you will improve with every match, as you gather more knowledge. 
+
+If you're having a hard time, try playing with a friend or a random, try out a different loadout, or give the Quickplay a chance. At the end of the day, this a game designed to be fun and exciting. Don't forget that, and have a good one.
